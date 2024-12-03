@@ -9,6 +9,7 @@
       //                 zip code.                                     *
       //                 Roll up key can be used to look at another    *
       //                 page. PF3 us used to quit the program.        *
+      // test
       //****************************************************************
      Fcusmstl2  if   e           k disk
      Fschzipd   cf   e             workstn sfile(subfile:recnum)
